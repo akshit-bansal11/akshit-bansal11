@@ -7,7 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 # Skills
-## Frameworks
+## Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,css,git,html,md)](https://skillicons.dev)
 ## Platforms
 [![My Skills](https://skillicons.dev/icons?i=clion,github,gmail,ai,instagram,linkedin,linux,notion,ps,ubuntu,vscode,windows)](https://skillicons.dev)
