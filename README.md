@@ -8,6 +8,6 @@
 - ⚡ Fun fact: ...
 # Skills
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,git,html,md,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,git,html,md,bootstrap,jquery,node)](https://skillicons.dev)
 ## Platforms
 [![My Skills](https://skillicons.dev/icons?i=clion,github,gmail,ai,instagram,linkedin,linux,notion,ps,ubuntu,vscode,windows)](https://skillicons.dev)
