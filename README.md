@@ -10,7 +10,6 @@ Hi. 🖐🤝 I'm Akshit Bansal<br>👀 I'm interested in Web Development, Web De
 [![My Skills](https://skillicons.dev/icons?i=clion,github,gmail,ai,instagram,linkedin,linux,notion,ps,ubuntu,vscode,windows,stackoverflow,svg,figma,autocad,cmake,codepen,discord)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshit-bansal11&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshit-bansal11&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-bansal11&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
