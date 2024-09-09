@@ -3,11 +3,11 @@ Hi. 🖐🤝 I'm Akshit Bansal<br>👀 I'm interested in Web Development, Web De
 
 # Skills
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,js,py,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,js,py)](https://skillicons.dev)
 ## Technologies and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=css,html,md,bootstrap,jquery,nodejs,npm,express,htmx,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,express,html,htmx,jquery,md,mysql,nodejs,npm)](https://skillicons.dev)
 ## Platforms and Tools
-[![My Skills](https://skillicons.dev/icons?i=clion,github,gmail,ai,instagram,linkedin,linux,notion,ps,ubuntu,vscode,windows,stackoverflow,svg,figma,autocad,cmake,codepen,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,autocad,clion,cmake,codepen,discord,figma,github,gmail,instagram,linkedin,linux,notion,ps,stackoverflow,svg,ubuntu,vscode,windows)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshit-bansal11&theme=dark&hide_border=false)
