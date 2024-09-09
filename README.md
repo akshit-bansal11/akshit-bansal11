@@ -2,9 +2,11 @@
 Hi. 🖐🤝 I'm Akshit Bansal<br>👀 I'm interested in Web Development, Web Design and DSA<br>🔭 I'm currently working on "Influera".<br>📚 I'm currently learning JavaScript and DSA in C++.<br>🤝 I'm looking to collaborate on various web dev projects.<br>📖 How to reach me: artistbansal2004@gmail.com<br>
 
 # Skills
-## Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,git,html,md,bootstrap,jquery,nodejs,js,py)](https://skillicons.dev)
-## Platforms
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,js,py,sql)](https://skillicons.dev)
+## Technologies and Frameworks
+[![My Skills](https://skillicons.dev/icons?i=css,html,md,bootstrap,jquery,nodejs)](https://skillicons.dev)
+## Platforms and Tools
 [![My Skills](https://skillicons.dev/icons?i=clion,github,gmail,ai,instagram,linkedin,linux,notion,ps,ubuntu,vscode,windows)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
