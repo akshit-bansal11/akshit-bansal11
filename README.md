@@ -20,6 +20,7 @@
 [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![CSharp](https://skillicons.dev/icons?i=csharp)](https://skillicons.dev)
 
 ## 🌐 Web Development  
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
