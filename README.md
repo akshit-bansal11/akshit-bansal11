@@ -20,7 +20,7 @@
 [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![CSharp](https://skillicons.dev/icons?i=csharp)](https://skillicons.dev)
+[![CSharp](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 ## 🌐 Web Development  
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
@@ -46,6 +46,7 @@
 [![Notion](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 [![Markdown](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 [![SVG](https://skillicons.dev/icons?i=svg)](https://skillicons.dev)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 
 ## 🎨 UI/UX & Design  
 [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
