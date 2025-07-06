@@ -1,4 +1,4 @@
-![Header Image](./header.png)  
+![Header Image](./profileHeader.png)  
 
 # 👋 Hi, I'm Akshit Bansal  
 
