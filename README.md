@@ -47,6 +47,10 @@
 [![Markdown](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 [![SVG](https://skillicons.dev/icons?i=svg)](https://skillicons.dev)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+[![Bash](https://skillicons.dev/icons?i=bash)]()
+[![Firebase](https://skillicons.dev/icons?i=firebase)]()
 
 ## 🎨 UI/UX & Design  
 [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
@@ -70,6 +74,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akshit-bansal11)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/akshit_bansal11)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:artistbansal2004@gmail.com)
+[![Discord](https://skillicons.dev/icons?i=discord)](mailto:artistbansal2004@gmail.com)
 
 ---
 
