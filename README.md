@@ -26,17 +26,17 @@
 ## 🌐 Web Development
 - ### Frontend
     - Technologies:
-        [![HTML](https://skillicons.dev/icons?i=html)]()
-        [![CSS](https://skillicons.dev/icons?i=css)]()
-        [![JavaScript](https://skillicons.dev/icons?i=js)]()
+    [![HTML](https://skillicons.dev/icons?i=html)]()
+    [![CSS](https://skillicons.dev/icons?i=css)]()
+    [![JavaScript](https://skillicons.dev/icons?i=js)]()
     - Frameworks & Libraries:
-        [![React](https://skillicons.dev/icons?i=react)]()
-        [![jQuery](https://skillicons.dev/icons?i=jquery)]()
-        [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
-        [![Tailwind](https://skillicons.dev/icons?i=tailwind)]()
-        [![Material UI](https://skillicons.dev/icons?i=materialui)]()
+    [![React](https://skillicons.dev/icons?i=react)]()
+    [![jQuery](https://skillicons.dev/icons?i=jquery)]()
+    [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
+    [![Tailwind](https://skillicons.dev/icons?i=tailwind)]()
+    [![Material UI](https://skillicons.dev/icons?i=materialui)]()
     - Tools:
-        [![Vite](https://skillicons.dev/icons?i=vite)]()
+    [![Vite](https://skillicons.dev/icons?i=vite)]()
 - ### Backend
     - Technologies:
         [![Node.js](https://skillicons.dev/icons?i=nodejs)]()
