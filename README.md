@@ -16,7 +16,7 @@
 # 💼 Skills  
 
 ## 🖥️ Programming Languages  
-[![C](https://skillicons.dev/icons?i=c)]() 
+[![C](https://skillicons.dev/icons?i=c)]()
 [![C++](https://skillicons.dev/icons?i=cpp)]()
 [![JavaScript](https://skillicons.dev/icons?i=js)]()
 [![Python](https://skillicons.dev/icons?i=py)]()
@@ -26,23 +26,23 @@
 ## 🌐 Web Development  
 
 ### Frontend  
-- ### Technologies:  
+- **Technologies**:  
     [![HTML](https://skillicons.dev/icons?i=html)]()
     [![CSS](https://skillicons.dev/icons?i=css)]()
     [![JavaScript](https://skillicons.dev/icons?i=js)]()
-- ### Frameworks & Libraries:  
+- **Frameworks & Libraries**:  
     [![React](https://skillicons.dev/icons?i=react)]()
     [![jQuery](https://skillicons.dev/icons?i=jquery)]()
     [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
     [![Tailwind](https://skillicons.dev/icons?i=tailwind)]()
     [![Material UI](https://skillicons.dev/icons?i=materialui)]()
-- ### Tools:  
+- **Tools**:  
     [![Vite](https://skillicons.dev/icons?i=vite)]()
 ### Backend  
-- ### Technologies:  
+- **Technologies**:  
     [![Node.js](https://skillicons.dev/icons?i=nodejs)]()
     [![Express.js](https://skillicons.dev/icons?i=express)]()
-- ### Platforms:  
+- **Platforms**:  
     [![.NET](https://skillicons.dev/icons?i=dotnet)]()
     [![Firebase](https://skillicons.dev/icons?i=firebase)]()
 
@@ -53,34 +53,34 @@
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)]()
 
 ## 🔧 Tools & Workflow
-- ### Version Control 
+- **Version Control**:  
     [![Git](https://skillicons.dev/icons?i=git)]()
     [![GitHub](https://skillicons.dev/icons?i=github)]()
-- ### Package Management
+- **Package Management**:  
     [![npm](https://skillicons.dev/icons?i=npm)]()
-- ### API Testing
+- **API Testing**:  
     [![Postman](https://skillicons.dev/icons?i=postman)]()
-- ### Scripting
+- **Scripting**:  
     [![Bash](https://skillicons.dev/icons?i=bash)]()
     [![Powershell](https://skillicons.dev/icons?i=powershell)]()
 
 
 ## 🎨 UI/UX & Design 
-- ### Tools
+- **Tools**:  
     [![Figma](https://skillicons.dev/icons?i=figma)]()
     [![Adobe Illustrator](https://skillicons.dev/icons?i=ai)]()
     [![Photoshop](https://skillicons.dev/icons?i=ps)]()
     [![AutoCAD](https://skillicons.dev/icons?i=autocad)]()
-- ### Formats
+- **Formats**:  
     [![SVG](https://skillicons.dev/icons?i=svg)]()
 
 ## 🧠 Development Environments
-- ### IDEs
+- **IDEs**:  
     [![VS Code](https://skillicons.dev/icons?i=vscode)]()
     [![CLion](https://skillicons.dev/icons?i=clion)]()
     [![PyCharm](https://skillicons.dev/icons?i=pycharm)]()
     [![WebStorm](https://skillicons.dev/icons?i=webstorm)]()
-- ### Collaboration & Documentation
+- **Collaboration & Documentation**:  
     [![CodePen](https://skillicons.dev/icons?i=codepen)]()
     [![Notion](https://skillicons.dev/icons?i=notion)]()
     [![Markdown](https://skillicons.dev/icons?i=md)]()
