@@ -22,17 +22,19 @@
 [![Python](https://skillicons.dev/icons?i=py)]()
 [![CSharp](https://skillicons.dev/icons?i=cs)]()
 
-## 🌐 Web Development  
-[![HTML](https://skillicons.dev/icons?i=html)]()
-[![CSS](https://skillicons.dev/icons?i=css)]()
-[![JavaScript](https://skillicons.dev/icons?i=js)]()
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)]()
-[![Node.js](https://skillicons.dev/icons?i=nodejs)]()
-[![Express.js](https://skillicons.dev/icons?i=express)]()
-[![jQuery](https://skillicons.dev/icons?i=jquery)]()
-[![React](https://skillicons.dev/icons?i=react)]()
-[![Vite](https://skillicons.dev/icons?i=vite)]()
+## 🌐 Web Development
+- ### Frontend
+- - [![HTML](https://skillicons.dev/icons?i=html)]()
+- - [![CSS](https://skillicons.dev/icons?i=css)]()
+- - [![JavaScript](https://skillicons.dev/icons?i=js)]()
+- - [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
+- - [![Tailwind](https://skillicons.dev/icons?i=tailwind)]()
+- - [![Node.js](https://skillicons.dev/icons?i=nodejs)]()
+- - [![Express.js](https://skillicons.dev/icons?i=express)]()
+- - [![jQuery](https://skillicons.dev/icons?i=jquery)]()
+- - [![React](https://skillicons.dev/icons?i=react)]()
+- - [![Vite](https://skillicons.dev/icons?i=vite)]()
+- - [![PHP](https://skillicons.dev/icons?i=php)]()
 
 ## 🗃️ Databases  
 [![MySQL](https://skillicons.dev/icons?i=mysql)]()
@@ -49,8 +51,11 @@
 [![.NET](https://skillicons.dev/icons?i=dotnet)]()
 [![Postman](https://skillicons.dev/icons?i=postman)]()
 [![Bash](https://skillicons.dev/icons?i=bash)]()
-[![Bash](https://skillicons.dev/icons?i=bash)]()
 [![Firebase](https://skillicons.dev/icons?i=firebase)]()
+[![Latex](https://skillicons.dev/icons?i=latex)]()
+[![Material UI](https://skillicons.dev/icons?i=materialui)]()
+[![Powershell](https://skillicons.dev/icons?i=powershell)]()
+
 
 ## 🎨 UI/UX & Design  
 [![Figma](https://skillicons.dev/icons?i=figma)]()
@@ -74,7 +79,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akshit-bansal11)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/akshit_bansal11)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:artistbansal2004@gmail.com)
-[![Discord](https://skillicons.dev/icons?i=discord)](mailto:artistbansal2004@gmail.com)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/akshit_bansal11)
 
 ---
 
