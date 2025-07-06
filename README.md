@@ -1,4 +1,4 @@
-![Header Image](./GitHub%20Profile%20Header%20Image.png)  
+![Header Image](./profileHeader.png)  
 
 # 👋 Hi, I'm Akshit Bansal  
 
