@@ -21,40 +21,51 @@
 [![JavaScript](https://skillicons.dev/icons?i=js)]()
 [![Python](https://skillicons.dev/icons?i=py)]()
 [![CSharp](https://skillicons.dev/icons?i=cs)]()
+[![PHP](https://skillicons.dev/icons?i=php)]()
 
 ## 🌐 Web Development
 - ### Frontend
-    [![HTML](https://skillicons.dev/icons?i=html)]()
-    [![CSS](https://skillicons.dev/icons?i=css)]()
-    [![JavaScript](https://skillicons.dev/icons?i=js)]()
-    [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
-    [![Tailwind](https://skillicons.dev/icons?i=tailwind)]()
-    [![Node.js](https://skillicons.dev/icons?i=nodejs)]()
-    [![Express.js](https://skillicons.dev/icons?i=express)]()
-    [![jQuery](https://skillicons.dev/icons?i=jquery)]()
-    [![React](https://skillicons.dev/icons?i=react)]()
-    [![Vite](https://skillicons.dev/icons?i=vite)]()
-    [![PHP](https://skillicons.dev/icons?i=php)]()
+    - Technologies:
+        [![HTML](https://skillicons.dev/icons?i=html)]()
+        [![CSS](https://skillicons.dev/icons?i=css)]()
+        [![JavaScript](https://skillicons.dev/icons?i=js)]()
+    - Frameworks & Libraries:
+        [![React](https://skillicons.dev/icons?i=react)]()
+        [![jQuery](https://skillicons.dev/icons?i=jquery)]()
+        [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
+        [![Tailwind](https://skillicons.dev/icons?i=tailwind)]()
+        [![Material UI](https://skillicons.dev/icons?i=materialui)]()
+    - Tools:
+        [![Vite](https://skillicons.dev/icons?i=vite)]()
+- ### Backend
+    - Technologies:
+        [![Node.js](https://skillicons.dev/icons?i=nodejs)]()
+        [![Express.js](https://skillicons.dev/icons?i=express)]()
+    - Platforms:
+        [![.NET](https://skillicons.dev/icons?i=dotnet)]()
+        [![Firebase](https://skillicons.dev/icons?i=firebase)]()
+
 
 ## 🗃️ Databases  
 [![MySQL](https://skillicons.dev/icons?i=mysql)]()
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)]()
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)]()
 
-## 🔧 Tools & Workflow  
-[![Git](https://skillicons.dev/icons?i=git)]()
-[![GitHub](https://skillicons.dev/icons?i=github)]()
-[![npm](https://skillicons.dev/icons?i=npm)]()
+## 🔧 Tools & Workflow
+- ### Version Control 
+    [![Git](https://skillicons.dev/icons?i=git)]()
+    [![GitHub](https://skillicons.dev/icons?i=github)]()
+- ### Package Management
+    [![npm](https://skillicons.dev/icons?i=npm)]()
+- ### API Testing
+    [![Postman](https://skillicons.dev/icons?i=postman)]()
+- ### Scripting
+    [![Bash](https://skillicons.dev/icons?i=bash)]()
+    [![Powershell](https://skillicons.dev/icons?i=powershell)]()
 [![Notion](https://skillicons.dev/icons?i=notion)]()
 [![Markdown](https://skillicons.dev/icons?i=md)]()
 [![SVG](https://skillicons.dev/icons?i=svg)]()
-[![.NET](https://skillicons.dev/icons?i=dotnet)]()
-[![Postman](https://skillicons.dev/icons?i=postman)]()
-[![Bash](https://skillicons.dev/icons?i=bash)]()
-[![Firebase](https://skillicons.dev/icons?i=firebase)]()
 [![Latex](https://skillicons.dev/icons?i=latex)]()
-[![Material UI](https://skillicons.dev/icons?i=materialui)]()
-[![Powershell](https://skillicons.dev/icons?i=powershell)]()
 
 
 ## 🎨 UI/UX & Design  
