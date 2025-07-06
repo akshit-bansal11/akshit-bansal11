@@ -1,8 +1,8 @@
-![Header Image](./GitHub%20Profile%20Header%20Image.png)
+![Header Image](./GitHub%20Profile%20Header%20Image.png)  
 
-# 👋 Hi, I'm Akshit Bansal
+# 👋 Hi, I'm Akshit Bansal  
 
-🚀 Passionate Web Developer | 🎨 UI/UX Enthusiast | 📚 DSA Learner
+🚀 Passionate Web Developer | 🎨 UI/UX Enthusiast | 📚 DSA Learner  
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-# 💼 Skills
+# 💼 Skills  
 
 ## 🖥️ Programming Languages  
 [![C](https://skillicons.dev/icons?i=c)]() 
@@ -23,27 +23,27 @@
 [![CSharp](https://skillicons.dev/icons?i=cs)]()
 [![PHP](https://skillicons.dev/icons?i=php)]()
 
-## 🌐 Web Development
-- ### Frontend
-    - Technologies:  
+## 🌐 Web Development  
+### Frontend  
+- ### Technologies:  
     [![HTML](https://skillicons.dev/icons?i=html)]()
     [![CSS](https://skillicons.dev/icons?i=css)]()
     [![JavaScript](https://skillicons.dev/icons?i=js)]()
-    - Frameworks & Libraries:  
+- ### Frameworks & Libraries:  
     [![React](https://skillicons.dev/icons?i=react)]()
     [![jQuery](https://skillicons.dev/icons?i=jquery)]()
     [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
     [![Tailwind](https://skillicons.dev/icons?i=tailwind)]()
     [![Material UI](https://skillicons.dev/icons?i=materialui)]()
-    - Tools:  
+- ### Tools:  
     [![Vite](https://skillicons.dev/icons?i=vite)]()
-- ### Backend
-    - Technologies:
-        [![Node.js](https://skillicons.dev/icons?i=nodejs)]()
-        [![Express.js](https://skillicons.dev/icons?i=express)]()
-    - Platforms:
-        [![.NET](https://skillicons.dev/icons?i=dotnet)]()
-        [![Firebase](https://skillicons.dev/icons?i=firebase)]()
+### Backend  
+- ### Technologies:  
+    [![Node.js](https://skillicons.dev/icons?i=nodejs)]()
+    [![Express.js](https://skillicons.dev/icons?i=express)]()
+- ### Platforms:  
+    [![.NET](https://skillicons.dev/icons?i=dotnet)]()
+    [![Firebase](https://skillicons.dev/icons?i=firebase)]()
 
 
 ## 🗃️ Databases  
