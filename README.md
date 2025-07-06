@@ -63,24 +63,28 @@
 - ### Scripting
     [![Bash](https://skillicons.dev/icons?i=bash)]()
     [![Powershell](https://skillicons.dev/icons?i=powershell)]()
-[![Notion](https://skillicons.dev/icons?i=notion)]()
-[![Markdown](https://skillicons.dev/icons?i=md)]()
-[![SVG](https://skillicons.dev/icons?i=svg)]()
-[![Latex](https://skillicons.dev/icons?i=latex)]()
 
 
-## 🎨 UI/UX & Design  
-[![Figma](https://skillicons.dev/icons?i=figma)]()
-[![Adobe Illustrator](https://skillicons.dev/icons?i=ai)]()
-[![Photoshop](https://skillicons.dev/icons?i=ps)]()
-[![AutoCAD](https://skillicons.dev/icons?i=autocad)]()
+## 🎨 UI/UX & Design 
+- ### Tools
+    [![Figma](https://skillicons.dev/icons?i=figma)]()
+    [![Adobe Illustrator](https://skillicons.dev/icons?i=ai)]()
+    [![Photoshop](https://skillicons.dev/icons?i=ps)]()
+    [![AutoCAD](https://skillicons.dev/icons?i=autocad)]()
+- ### Formats
+    [![SVG](https://skillicons.dev/icons?i=svg)]()
 
-## 🧠 Development Environments  
-[![CLion](https://skillicons.dev/icons?i=clion)]()
-[![CodePen](https://skillicons.dev/icons?i=codepen)]()
-[![VS Code](https://skillicons.dev/icons?i=vscode)]()
-[![PyCharm](https://skillicons.dev/icons?i=pycharm)]()
-[![WebStorm](https://skillicons.dev/icons?i=webstorm)]()
+## 🧠 Development Environments
+- ### IDEs
+    [![VS Code](https://skillicons.dev/icons?i=vscode)]()
+    [![CLion](https://skillicons.dev/icons?i=clion)]()
+    [![PyCharm](https://skillicons.dev/icons?i=pycharm)]()
+    [![WebStorm](https://skillicons.dev/icons?i=webstorm)]()
+- ### Collaboration & Documentation
+    [![CodePen](https://skillicons.dev/icons?i=codepen)]()
+    [![Notion](https://skillicons.dev/icons?i=notion)]()
+    [![Markdown](https://skillicons.dev/icons?i=md)]()
+    [![Latex](https://skillicons.dev/icons?i=latex)]()
 
 ## 🖥️ Operating Systems  
 [![Windows](https://skillicons.dev/icons?i=windows)]()
