@@ -29,7 +29,7 @@
 
 | Frontend | Backend |
 | -------- | ------- |
-| **Technologies** <br> <br> [![HTML](https://skillicons.dev/icons?i=html)]() [![CSS](https://skillicons.dev/icons?i=css)]() [![JavaScript](https://skillicons.dev/icons?i=js)]() <br> <br> <br> **Libraries & Frameworks** <br> <br> [![React](https://skillicons.dev/icons?i=react)]() [![jQuery](https://skillicons.dev/icons?i=jquery)]() [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]() [![Tailwind](https://skillicons.dev/icons?i=tailwind)]() [![Material UI](https://skillicons.dev/icons?i=materialui)]() <br> <br> <br> **Tools** <br> <br> [![Vite](https://skillicons.dev/icons?i=vite)]() |
+| **Technologies** <br> <br> [![HTML](https://skillicons.dev/icons?i=html)]() [![CSS](https://skillicons.dev/icons?i=css)]() [![JavaScript](https://skillicons.dev/icons?i=js)]() <br> <br> <br> **Libraries & Frameworks** <br> <br> [![React](https://skillicons.dev/icons?i=react)]() [![jQuery](https://skillicons.dev/icons?i=jquery)]() [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]() [![Tailwind](https://skillicons.dev/icons?i=tailwind)]() [![Material UI](https://skillicons.dev/icons?i=materialui)]() <br> <br> <br> **Tools** <br> <br> [![Vite](https://skillicons.dev/icons?i=vite)]() | **Technologies** <br> <br> [![Node.js](https://skillicons.dev/icons?i=nodejs)]() [![Express.js](https://skillicons.dev/icons?i=express)]() <br> <br> <br> **Platforms** <br> <br> [![.NET](https://skillicons.dev/icons?i=dotnet)]() [![Firebase](https://skillicons.dev/icons?i=firebase)]() |
 
 ### Frontend  
 - ### Technologies:  
