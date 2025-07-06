@@ -29,7 +29,7 @@
 
 | Frontend | Backend |
 | -------- | ------- |
-| **Technologies** <br> <br> [![HTML](https://skillicons.dev/icons?i=html)]() [![HTML](https://skillicons.dev/icons?i=html)]()[![HTML](https://skillicons.dev/icons?i=html)]() <br> <br> <br> **Libraries & Frameworks** <br> <br> [![HTML](https://skillicons.dev/icons?i=html)]()[![HTML](https://skillicons.dev/icons?i=html)]()[![HTML](https://skillicons.dev/icons?i=html)]() |
+| **Technologies** <br> <br> [![HTML](https://skillicons.dev/icons?i=html)]() [![CSS](https://skillicons.dev/icons?i=css)]() [![JavaScript](https://skillicons.dev/icons?i=js)]() <br> <br> <br> **Libraries & Frameworks** <br> <br> [![React](https://skillicons.dev/icons?i=react)]() [![jQuery](https://skillicons.dev/icons?i=jquery)]() [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]() [![Tailwind](https://skillicons.dev/icons?i=tailwind)]() [![Material UI](https://skillicons.dev/icons?i=materialui)]() <br> <br> <br> **Tools** <br> <br> [![Vite](https://skillicons.dev/icons?i=vite)]() |
 
 ### Frontend  
 - ### Technologies:  
