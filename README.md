@@ -25,10 +25,11 @@
 
 ## 🌐 Web Development  
 
+<table></table>
+
 | Frontend | Backend |
 | -------- | ------- |
-| | Technologies | Frameworks & Libraries | Tools | |
-| | ------------ | ---------------------- | ----- | |
+| **Technologies** <br> [![HTML](https://skillicons.dev/icons?i=html)]()[![HTML](https://skillicons.dev/icons?i=html)]()[![HTML](https://skillicons.dev/icons?i=html)]() <br> <br> **Libraries & Frameworks** <br> [![HTML](https://skillicons.dev/icons?i=html)]()[![HTML](https://skillicons.dev/icons?i=html)]()[![HTML](https://skillicons.dev/icons?i=html)]() |
 
 ### Frontend  
 - ### Technologies:  
