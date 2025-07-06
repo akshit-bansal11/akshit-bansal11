@@ -24,6 +24,12 @@
 [![PHP](https://skillicons.dev/icons?i=php)]()
 
 ## 🌐 Web Development  
+
+| Frontend | Backend |
+| -------- | ------- |
+| | Technologies | Frameworks & Libraries | Tools | |
+| | ------------ | ---------------------- | ----- | |
+
 ### Frontend  
 - ### Technologies:  
     [![HTML](https://skillicons.dev/icons?i=html)]()
