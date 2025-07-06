@@ -24,17 +24,17 @@
 
 ## 🌐 Web Development
 - ### Frontend
-- [![HTML](https://skillicons.dev/icons?i=html)]()
-- [![CSS](https://skillicons.dev/icons?i=css)]()
-- [![JavaScript](https://skillicons.dev/icons?i=js)]()
-- [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
-- [![Tailwind](https://skillicons.dev/icons?i=tailwind)]()
-- [![Node.js](https://skillicons.dev/icons?i=nodejs)]()
-- [![Express.js](https://skillicons.dev/icons?i=express)]()
-- [![jQuery](https://skillicons.dev/icons?i=jquery)]()
-- [![React](https://skillicons.dev/icons?i=react)]()
-- [![Vite](https://skillicons.dev/icons?i=vite)]()
-- [![PHP](https://skillicons.dev/icons?i=php)]()
+    [![HTML](https://skillicons.dev/icons?i=html)]()
+    [![CSS](https://skillicons.dev/icons?i=css)]()
+    [![JavaScript](https://skillicons.dev/icons?i=js)]()
+    [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
+    [![Tailwind](https://skillicons.dev/icons?i=tailwind)]()
+    [![Node.js](https://skillicons.dev/icons?i=nodejs)]()
+    [![Express.js](https://skillicons.dev/icons?i=express)]()
+    [![jQuery](https://skillicons.dev/icons?i=jquery)]()
+    [![React](https://skillicons.dev/icons?i=react)]()
+    [![Vite](https://skillicons.dev/icons?i=vite)]()
+    [![PHP](https://skillicons.dev/icons?i=php)]()
 
 ## 🗃️ Databases  
 [![MySQL](https://skillicons.dev/icons?i=mysql)]()
