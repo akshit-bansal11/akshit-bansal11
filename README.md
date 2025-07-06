@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Akshit Bansal  
 
-🚀 Passionate Web Developer | 🎨 UI/UX Enthusiast | 📚 DSA Learner  
+🚀 MERN-Stack Developer | 🎨 UI/UX Enthusiast | 📚 DSA Learner  
 
 ---
 
