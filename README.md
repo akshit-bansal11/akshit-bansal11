@@ -13,89 +13,162 @@
 
 ---
 
-# 💼 Skills  
+# 💼 Skills
 
-## 🖥️ Programming Languages  
-[![C](https://skillicons.dev/icons?i=c)]()
-[![C++](https://skillicons.dev/icons?i=cpp)]()
-[![JavaScript](https://skillicons.dev/icons?i=js)]()
-[![Python](https://skillicons.dev/icons?i=py)]()
-[![CSharp](https://skillicons.dev/icons?i=cs)]()
-[![PHP](https://skillicons.dev/icons?i=php)]()
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Skills</th>
+  </tr>
 
-## 🌐 Web Development  
+  <!-- Programming Languages -->
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" height="48"/><br>C</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br>C++</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br>JavaScript</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=py" width="48" height="48"/><br>Python</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48"/><br>C#</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48" height="48"/><br>PHP</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-### Frontend  
-- **Technologies**:  
-    [![HTML](https://skillicons.dev/icons?i=html)]()
-    [![CSS](https://skillicons.dev/icons?i=css)]()
-    [![JavaScript](https://skillicons.dev/icons?i=js)]()
-- **Frameworks & Libraries**:  
-    [![React](https://skillicons.dev/icons?i=react)]()
-    [![jQuery](https://skillicons.dev/icons?i=jquery)]()
-    [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
-    [![Tailwind](https://skillicons.dev/icons?i=tailwind)]()
-    [![Material UI](https://skillicons.dev/icons?i=materialui)]()
-- **Tools**:  
-    [![Vite](https://skillicons.dev/icons?i=vite)]()
-### Backend  
-- **Technologies**:  
-    [![Node.js](https://skillicons.dev/icons?i=nodejs)]()
-    [![Express.js](https://skillicons.dev/icons?i=express)]()
-- **Platforms**:  
-    [![.NET](https://skillicons.dev/icons?i=dotnet)]()
-    [![Firebase](https://skillicons.dev/icons?i=firebase)]()
+  <!-- Frontend Development -->
+  <tr>
+    <td><b>Frontend Development</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br>HTML</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br>JavaScript</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48"/><br>jQuery</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/><br>Bootstrap</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br>Tailwind</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="48" height="48"/><br>Material UI</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48"/><br>Vite</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
+  <!-- Backend Development -->
+  <tr>
+    <td><b>Backend Development</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br>Express</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48"/><br>.NET</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/><br>Firebase</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-## 🗃️ Databases  
-[![MySQL](https://skillicons.dev/icons?i=mysql)]()
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)]()
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)]()
+  <!-- Databases -->
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br>MySQL</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br>PostgreSQL</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br>MongoDB</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-## 🔧 Tools & Workflow
-- **Version Control**:  
-    [![Git](https://skillicons.dev/icons?i=git)]()
-    [![GitHub](https://skillicons.dev/icons?i=github)]()
-- **Package Management**:  
-    [![npm](https://skillicons.dev/icons?i=npm)]()
-- **API Testing**:  
-    [![Postman](https://skillicons.dev/icons?i=postman)]()
-- **Scripting**:  
-    [![Bash](https://skillicons.dev/icons?i=bash)]()
-    [![Powershell](https://skillicons.dev/icons?i=powershell)]()
+  <!-- Tools & Workflow -->
+  <tr>
+    <td><b>Tools & Workflow</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="48" height="48"/><br>npm</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/><br>Postman</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48"/><br>Bash</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48"/><br>Powershell</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
+  <!-- UI/UX & Design -->
+  <tr>
+    <td><b>UI/UX & Design</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/><br>Figma</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=ai" width="48" height="48"/><br>Illustrator</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=ps" width="48" height="48"/><br>Photoshop</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=autocad" width="48" height="48"/><br>AutoCAD</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=svg" width="48" height="48"/><br>SVG</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-## 🎨 UI/UX & Design 
-- **Tools**:  
-    [![Figma](https://skillicons.dev/icons?i=figma)]()
-    [![Adobe Illustrator](https://skillicons.dev/icons?i=ai)]()
-    [![Photoshop](https://skillicons.dev/icons?i=ps)]()
-    [![AutoCAD](https://skillicons.dev/icons?i=autocad)]()
-- **Formats**:  
-    [![SVG](https://skillicons.dev/icons?i=svg)]()
+  <!-- Development Environments -->
+  <tr>
+    <td><b>Development Environments</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br>VS Code</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=clion" width="48" height="48"/><br>CLion</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48"/><br>PyCharm</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=webstorm" width="48" height="48"/><br>WebStorm</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=codepen" width="48" height="48"/><br>CodePen</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=notion" width="48" height="48"/><br>Notion</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=md" width="48" height="48"/><br>Markdown</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=latex" width="48" height="48"/><br>LaTeX</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-## 🧠 Development Environments
-- **IDEs**:  
-    [![VS Code](https://skillicons.dev/icons?i=vscode)]()
-    [![CLion](https://skillicons.dev/icons?i=clion)]()
-    [![PyCharm](https://skillicons.dev/icons?i=pycharm)]()
-    [![WebStorm](https://skillicons.dev/icons?i=webstorm)]()
-- **Collaboration & Documentation**:  
-    [![CodePen](https://skillicons.dev/icons?i=codepen)]()
-    [![Notion](https://skillicons.dev/icons?i=notion)]()
-    [![Markdown](https://skillicons.dev/icons?i=md)]()
-    [![Latex](https://skillicons.dev/icons?i=latex)]()
+  <!-- Operating Systems -->
+  <tr>
+    <td><b>Operating Systems</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=windows" width="48" height="48"/><br>Windows</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48"/><br>Ubuntu</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/><br>Linux</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-## 🖥️ Operating Systems  
-[![Windows](https://skillicons.dev/icons?i=windows)]()
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)]()
-[![Linux](https://skillicons.dev/icons?i=linux)]()
+  <!-- Social & Communication -->
+  <tr>
+    <td><b>Social & Communication</b></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><a href="https://www.linkedin.com/in/akshit-bansal11"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/><br>LinkedIn</a></td>
+          <td align="center"><a href="https://www.instagram.com/akshit_bansal11"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/><br>Instagram</a></td>
+          <td align="center"><a href="mailto:artistbansal2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"/><br>Gmail</a></td>
+          <td align="center"><a href="https://discord.com/users/akshit_bansal11"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48"/><br>Discord</a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-## 📡 Social & Communication  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akshit-bansal11)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/akshit_bansal11)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:artistbansal2004@gmail.com)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/akshit_bansal11)
 
 ---
 
