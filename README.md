@@ -1,19 +1,28 @@
 ![Header Image](./profileHeader.png)  
 
-# 👋 Hi, I'm Akshit Bansal  
+---
 
-🚀 MERN-Stack Developer | 🎨 UI/UX Enthusiast | 📚 DSA Learner  
+- Currently: Making my MERN Stack skills better | Learning about Agentic AI | Gonna start learning about Next.js
+- Interests: Web Development, UI/UX Design, and AI for the Future  
+- Open to: Collaborating on innovative Web and AI projects  
+- Reach out to me: **artistbansal2004@gmail.com**
 
 ---
 
-- 🌱 Learning About: **MERN Stack** and **AI Agents**  
-- 👀 Interests: Web Development, UI/UX Design, and AI for the Future  
-- 🤝 Open to: Collaborating on innovative web and AI projects  
-- 📬 Reach out to me: **artistbansal2004@gmail.com**
+# Skills
 
----
+> ## Top Skills
 
-# 💼 Skills
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br>Tailwind CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/><br>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br>C++</td>
+  </tr>
+</table>
+
+> ## All Skills
 
 <table>
   <tr>
@@ -152,27 +161,22 @@
       </table>
     </td>
   </tr>
-
-  <!-- Social & Communication -->
-  <tr>
-    <td><b>Social & Communication</b></td>
-    <td>
-      <table>
-        <tr>
-          <td align="center"><a href="https://www.linkedin.com/in/akshit-bansal11"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/><br>LinkedIn</a></td>
-          <td align="center"><a href="https://www.instagram.com/akshit_bansal11"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/><br>Instagram</a></td>
-          <td align="center"><a href="mailto:artistbansal2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"/><br>Gmail</a></td>
-          <td align="center"><a href="https://discord.com/users/akshit_bansal11"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48"/><br>Discord</a></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
 </table>
-
 
 ---
 
-## 💰 Support My Work
+# Connect
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/akshit-bansal11"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/><br>LinkedIn</a></td>
+    <td align="center"><a href="https://www.instagram.com/akshit_bansal11"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/><br>Instagram</a></td>
+    <td align="center"><a href="https://x.com/akshit_bansal11"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48"/><br>Twitter</a></td>
+  </tr>
+</table>
+
+---
+
+# Support My Work
 
 If you find my work valuable and would like to support:
 
