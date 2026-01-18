@@ -15,9 +15,10 @@
 
 <table>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=next" width="48" height="48"/><br>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/><br>TypeScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br>Tailwind CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/><br>Figma</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br>C++</td>
   </tr>
 </table>
@@ -39,6 +40,7 @@
           <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" height="48"/><br>C</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br>C++</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br>JavaScript</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/><br>TypeScript</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=py" width="48" height="48"/><br>Python</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48"/><br>C#</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48" height="48"/><br>PHP</td>
@@ -57,6 +59,7 @@
           <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br>JavaScript</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=next" width="48" height="48"/><br>Next-js</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48"/><br>jQuery</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/><br>Bootstrap</td>
           <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br>Tailwind</td>
