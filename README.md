@@ -99,6 +99,19 @@
     </td>
   </tr>
 
+  <!-- Testing -->
+  <tr>
+    <td>Testing</td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=jest" width="48" height="48"/><br>Jest</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=vitest" width="48" height="48"/><br>Vitest</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
   <!-- Tools & Workflow -->
   <tr>
     <td><b>Tools & Workflow</b></td>
