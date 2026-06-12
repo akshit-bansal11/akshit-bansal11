@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Akshit%20Bansal&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Product%20Builder&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Akshit%20Bansal&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+(Next.js+%26+TypeScript);Building+Production-Grade+Web+Applications;AI-Integrated+Product+Engineering;Performance+%7C+Security+%7C+Scalability;Open+Source+Builder+%26+Problem+Solver"/>
 
@@ -72,42 +72,84 @@ I enjoy owning products end-to-end — from architecture and implementation to d
 
 # Tech Stack
 
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,python,html,css" />
-</p>
-
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,vite,figma" />
+  <img src="https://svgl.app/library/nextjs_icon_dark.svg" height="48" />
+  <img src="https://svgl.app/library/react_dark.svg" height="48" />
+  <img src="https://svgl.app/library/typescript.svg" height="48" />
+  <img src="https://svgl.app/library/tailwindcss.svg" height="48" />
+  <img src="https://svgl.app/library/shadcn-ui_dark.svg" height="48" />
+  <img src="https://svgl.app/library/motion_dark.svg" height="48" />
 </p>
 
-### Backend & Databases
+### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+  <img src="https://svgl.app/library/nodejs.svg" height="48" />
+  <img src="https://svgl.app/library/expressjs_dark.svg" height="48" />
+  <img src="https://svgl.app/library/golang_dark.svg" height="48" />
 </p>
 
-### Cloud, DevOps & Tooling
+### Data & Media
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,postman,docker" />
+  <img src="https://svgl.app/library/mongodb-icon-dark.svg" height="48" />
+  <img src="https://svgl.app/library/firebase.svg" height="48" />
+  <img src="https://svgl.app/library/postgresql.svg" height="48" />
+  <img src="https://svgl.app/library/cloudinary.svg" height="48" />
 </p>
-
-### Additional Technologies
 
 <p align="center">
-<img src="https://img.shields.io/badge/FFmpeg%20WASM-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web%20Codecs-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Auth0-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Redis-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Zod-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vitest-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IndexedDB-3178C6?style=for-the-badge&logoColor=white" />
 </p>
 
----
+### Auth & Security
+
+<p align="center">
+  <img src="https://svgl.app/library/firebase.svg" height="48" />
+  <img src="https://svgl.app/library/jwt.svg" height="48" />
+  <img src="https://svgl.app/library/auth0.svg" height="48" />
+  <img src="https://svgl.app/library/upstash.svg" height="48" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fingerprint.js-7C3AED?style=for-the-badge" />
+</p>
+
+### Testing
+
+<p align="center">
+  <img src="https://svgl.app/library/vitest.svg" height="48" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HappyDOM-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge" />
+</p>
+
+### UI / UX & Design
+
+<p align="center">
+  <img src="https://svgl.app/library/figma.svg" height="48" />
+  <img src="https://svgl.app/library/framer_dark.svg" height="48" />
+</p>
+
+### Dev Tools & AI
+
+<p align="center">
+  <img src="https://svgl.app/library/github_dark.svg" height="48" />
+  <img src="https://svgl.app/library/copilot_dark.svg" height="48" />
+  <img src="https://svgl.app/library/claude-ai-icon.svg" height="48" />
+  <img src="https://svgl.app/library/postman.svg" height="48" />
+  <img src="https://svgl.app/library/vercel_dark.svg" height="48" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FFmpeg%20WASM-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Codecs%20API-4285F4?style=for-the-badge" />
+</p>
 
 # AI / ML Expertise
 
