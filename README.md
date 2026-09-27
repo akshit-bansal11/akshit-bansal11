@@ -1,6 +1,6 @@
 # Hey, I'm Akshit 👋
 
-Full-stack dev who builds for the web, Android and Windows — and replaces paid apps with open-source alternatives. Currently working full time as a SDE-3 and CTO-in-training.
+Full-stack dev who builds for the web, Android and Windows — and replaces paid apps with open-source alternatives. Currently working full time as a SDE-3 and CTO-in-training, and building **[Kiteloom](https://kiteloom.com)**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akshitbansal.me-000?style=flat-square&logo=vercel)](https://akshitbansal.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshit--bansal11-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/akshit-bansal11)
@@ -34,9 +34,10 @@ Full-stack dev who builds for the web, Android and Windows — and replaces paid
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[Kiteloom](https://kiteloom.com)** | | |
+| **EdgePad** | | |
 | **Open Tools** | 35+ privacy-first browser utilities (media, PDF, SVG, CSS) — everything runs client-side, a free alternative to paid tool sites | Next.js, TypeScript, FFmpeg WASM |
-| **Plotline** | Tracker for movies, series, anime, manga and games | Next.js, TypeScript, MongoDB |
-| **Canopy** | Bookmark manager with tagging, metadata extraction and search | Next.js, TypeScript, MongoDB |
+| **Lokey** | | |
 
 More on my [repositories](https://github.com/akshit-bansal11?tab=repositories).
 
