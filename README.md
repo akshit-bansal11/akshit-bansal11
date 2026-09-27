@@ -1,6 +1,6 @@
 # Hey, I'm Akshit 👋
 
-Full-stack dev who builds for the web, Android and Windows — and replaces paid apps with open-source alternatives. Currently a **Full-Stack Intern at [Trupeer AI](https://trupeer.ai)**.
+Full-stack dev who builds for the web, Android and Windows — and replaces paid apps with open-source alternatives. Currently working full time as a SDE-3 and CTO-in-training.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akshitbansal.me-000?style=flat-square&logo=vercel)](https://akshitbansal.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshit--bansal11-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/akshit-bansal11)
