@@ -4,7 +4,7 @@
 
 **Full-stack engineer. I ship software for the web, Android and Windows,<br>and I replace paid apps with open-source ones.**
 
-Full-time SDE-3, and founder of **[Kiteloom](https://kiteloom.com)**.
+By day I work full time as an SDE-3. On the side I'm building my own startup, **[Kiteloom](https://kiteloom.com)**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akshitbansal.me-000?style=flat-square&logo=vercel)](https://akshitbansal.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshit--bansal11-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/akshit-bansal11)
