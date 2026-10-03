@@ -81,6 +81,6 @@ Built a client-side subtitle pipeline (FFmpeg WASM + ElevenLabs Scribe) that cut
 
 <div align="center">
 
-Like what I build? [Buy me a coffee](https://buymeacoffee.com/akshit_bansal11) · [PayPal](https://paypal.me/AkshitBansal141)
+Like what I build? [Ko-fi](https://ko-fi.com/akshit_bansal11) · [PayPal](https://paypal.me/AkshitBansal141) · UPI: `artistbansal2004@okaxis`
 
 </div>
